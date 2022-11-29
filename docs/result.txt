@@ -1,0 +1,4 @@
+Accuracy on test set: 93.6%
+Network Arch: STN + EfficientNetB0
+
+TrainSet Data Process: Rotate, Shift, BrightnessChange
